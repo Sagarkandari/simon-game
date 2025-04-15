@@ -1,0 +1,16 @@
+{
+    "name": "simon-game",
+    "version": "1.0.0",
+    "description": "A fun and interactive memory game built with HTML, CSS, and JavaScript.",
+    "main": "index.js",
+    "scripts": {
+      "test": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Sagarkandari/simon-game.git"
+    },
+    "keywords": ["simon", "game", "memory", "javascript", "interactive"],
+    "author": "Sagar Kandari",
+    "license": "MIT"
+  }
